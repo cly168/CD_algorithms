@@ -8,4 +8,4 @@ function rotateArr(arr,shiftBy){
 	}
 	return arr;
 }
-rotateArr()
+rotateArr();
